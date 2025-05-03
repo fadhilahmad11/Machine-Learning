@@ -1,1 +1,11 @@
+Folder ini berisi tiga notebook Jupyter yang masing-masing membahas tiga pendekatan utama dalam Machine Learning, yaitu:
+
+1. Classification Models – Predict Discrete Categories
+   - Membahas model klasifikasi seperti Logistic Regression, Decision Tree, dan K-Nearest Neighbors.
+
+2. Regression Models – Predict Continuous Outcomes
+   - Mengupas model regresi seperti Linear Regression, Ridge, dan Lasso.
+
+3. Clustering Models – Grouping Similar Data Points
+   - Mengenalkan model klastering tanpa label seperti K-Means dan Hierarchical Clustering.
 
